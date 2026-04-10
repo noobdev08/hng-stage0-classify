@@ -41,7 +41,6 @@ hng-stage0-classify-production.up.railway.app
 | `400`  | Missing or empty `name` parameter |
 | `422`  | `name` is not a valid string |
 | `500`  | Internal server error |
-| `502`  | Upstream Genderize API error |
 
 ```json
 { "status": "error", "message": "<description>" }
