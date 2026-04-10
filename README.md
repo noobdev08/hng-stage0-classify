@@ -5,7 +5,7 @@ A REST API endpoint that classifies a name's gender using the [Genderize.io](htt
 ## Live URL
 
 ```
-https://your-railway-url.up.railway.app
+hng-stage0-classify-production.up.railway.app
 ```
 
 ## Endpoint
