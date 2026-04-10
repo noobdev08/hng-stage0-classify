@@ -50,13 +50,13 @@ hng-stage0-classify-production.up.railway.app
 ## Local Setup
 
 ```bash
-git clone https://github.com/your-username/hng-stage0-classify
+git clone https://github.com/noobdev08/hng-stage0-classify
 cd hng-stage0-classify
 npm install
 npm run dev
 ```
 
-Runs on `http://localhost:3000`
+Runs on `http://localhost:5000`
 
 ## Stack
 
